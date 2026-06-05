@@ -4,7 +4,7 @@ A step-by-step tutorial for performing bifurcation analysis of the Jansen-Rit ne
 
 **Overview**
 
-The purpose of this notebook is to guide you through how to use BifurcationKit to study the Jansen-Rit model. The aim of this tutorial is to reproduce Figures 22 and 24 in the paper by Grimbert and Faugueras. The Jansen-Rit model is a widely used neural mass model that describes the dynamics of a cortical column through the interaction of excitatory and inhibitory neural populations. This tutorial demonstrates how to use BifurcationKit to systematically characterise the model's dynamical regimes — including stable fixed points, oscillatory states, and the transitions between them.  
+The purpose of this notebook is to guide you through how to use BifurcationKit to study the Jansen-Rit model. The aim of this tutorial is to reproduce Figures 22 and 24 in the paper by Grimbert and Faugueras (https://pubmed.ncbi.nlm.nih.gov/17052158/). The Jansen-Rit model is a widely used neural mass model that describes the dynamics of a cortical column through the interaction of excitatory and inhibitory neural populations. This tutorial demonstrates how to use BifurcationKit to systematically characterise the model's dynamical regimes — including stable fixed points, oscillatory states, and the transitions between them.  
 
 **Contents**
 
