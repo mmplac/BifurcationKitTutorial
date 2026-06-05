@@ -8,17 +8,17 @@ The Jansen-Rit model is a widely used neural mass model that describes the dynam
 
 **Contents**
 
-Setting up the Jansen-Rit model in Julia  
-Computing equilibria and their stability  
-Performing continuation to trace solution branches  
-Identifying bifurcation points (saddle-node, Hopf)  
-Visualising bifurcation diagrams  
+-Setting up the Jansen-Rit model in Julia  
+-Computing equilibria and their stability  
+-Performing continuation to trace solution branches  
+-Identifying bifurcation points (saddle-node, Hopf)  
+-Visualising bifurcation diagrams  
 
 **Requirements**
 
-Julia 1.x  
-BifurcationKit.jl  
-Plots. 
+-Julia 1.x  
+-BifurcationKit.jl  
+-Plots. 
 
 **Background**
 
