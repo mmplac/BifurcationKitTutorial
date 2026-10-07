@@ -18,7 +18,7 @@ The purpose of this notebook is to guide you through how to use BifurcationKit t
 
 -Julia 1.x  
 -BifurcationKit.jl  
--Plots. 
+-Plots.jl
 
 **Background**
 
